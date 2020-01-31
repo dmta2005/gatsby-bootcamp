@@ -12,7 +12,6 @@ const IndexPage = () => {
                 <Head title="Home" />
                 <h1>Hello.</h1>
                 <h2>I'm Ta Fularon, a full-stack developer living in beautiful Virginia</h2>
-                <p>Need a developer? <Link to="/contact">Contact me.</Link></p>
             </Layout>
            
         
